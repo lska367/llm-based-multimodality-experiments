@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+MMDocIR/__pycache__/
+MMDocIR/.vscode/
+MMDocIR/__pycache__/
+*.ipynb
+MMDocIR/.DS_Store
+MMDocIR/.*
+MMDocIR/.codegeex/
+.DS_Store
+MMDocIR/checkpoint/
+MMDocIR/dataset/
+MMDocIR/encode/
