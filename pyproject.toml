@@ -1,7 +1,7 @@
 [project]
 name = "multimodality-rerank"
 version = "0.1.0"
-description = "Add your description here"
+description = "多模态文档重排序系统，基于MMDocIR基准测试的实现，用于评估和比较不同多模态检索模型在长文档检索任务中的性能。"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
