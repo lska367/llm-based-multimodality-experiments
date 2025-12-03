@@ -1,0 +1,1 @@
+cd MMDocIR && uv run search.py BGE --encode page,layout --encode_path encode
